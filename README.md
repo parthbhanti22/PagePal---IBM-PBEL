@@ -6,7 +6,7 @@
 
 ## 🌐 Live Preview
 
-> Coming Soon...
+> https://pagepalparth.vercel.app/
 
 ---
 
